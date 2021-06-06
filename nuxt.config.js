@@ -1,5 +1,5 @@
 import pkg from './package'
-// 
+// 123
 export default {
   mode: 'spa',
 
